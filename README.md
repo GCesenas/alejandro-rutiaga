@@ -1,2 +1,2 @@
 # alejandro-rutiaga
-Website made for Alejandro Rutiaga, a local artist from Durango, México.
+Website made for Alejandro Rutiaga, a local artist from Durango, Mexico.
